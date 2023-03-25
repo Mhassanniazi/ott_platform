@@ -1,0 +1,6 @@
+{
+    "db_username" : "root",
+    "db_password" : "...",
+    "db_name" : "ott_database",
+    "db_host" : "localhost"
+}
